@@ -39,4 +39,6 @@ project/
 
 └── README.md
 
+## Лицензия
 
+Данные:   Data source: [Kaggle Playground S5E1](https://www.kaggle.com/competitions/playground-series-s5e1), licensed under CC BY 4.0
